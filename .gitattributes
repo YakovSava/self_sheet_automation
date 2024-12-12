@@ -1,0 +1,2 @@
+*.gs linguist-language=JavaScript
+*.gs linguist-detectable=true
